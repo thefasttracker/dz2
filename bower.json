@@ -1,0 +1,24 @@
+{
+  "name": "dz_2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Oleg Novikov <thefasttracker@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "modernizer": "^2.8.2",
+    "normalize-css": "^3.0.3"
+  }
+}
